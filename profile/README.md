@@ -29,7 +29,7 @@ Muat Turun</p>
 oleh NuruddinPlays, Ahmad Ali Karim, CP_131, LitBoiss</p>
 Muat Turun</p>
 <a href="https://curseforge.com/minecraft/texture-packs/senjata-melayu"</a>CurseForge (Java 1.8-1.20)</p>
-<a href="https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/"</a>PlanetMinecraft (Bedrock)]()</p>
+<a href="https://www.planetminecraft.com/texture-pack/bedrock-keris-melayu-malay-keris/"</a>PlanetMinecraft (Bedrock)</p>
 </details>
 <details close>
 <summary>Busana Melayu</summary>
