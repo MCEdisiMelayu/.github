@@ -6,7 +6,7 @@
 ### <p align=left>سبواه کوليکسي ڤيک سومبر برتيماکن ملايو اونتوق ماءينکرف‌ت</p>
 ##### A Malay-themed resource pack collection project for Minecraft</p>
 
-##
+# [The Official Wiki](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
 
 ### Senarai Pek / Pack List / سناراي ڤيک
 <details close>
