@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Wo8lhJl.png)
+![](https://imgur.com/0HxIaqK.png)
 
 # <p align="center">Minecraft: Edisi Melayu Project | ڤروجيک ماءينکرف‌ت: ايديسي ملايو</p>
 
