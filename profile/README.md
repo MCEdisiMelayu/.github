@@ -59,4 +59,4 @@ Muat Turun</p>
 
 ---
 
-## [Penghargaan](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Penghargaan) / [Credits](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
+## [Penghargaan](https://github.com/MCEdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Penghargaan) / [Credits](https://github.com/MCEdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
