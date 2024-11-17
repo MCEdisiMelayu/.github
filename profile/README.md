@@ -9,7 +9,7 @@
 ##### A Malay-themed resource pack collection project for Minecraft</p>
 
 [![Official Website](https://imgur.com/cHpL4jz.png)](https://bit.ly/LamanWebMCEM)
-[![The Official Wiki](https://imgur.com/bYJyjcA.png)](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
+[![The Official Wiki](https://imgur.com/bYJyjcA.png)](https://mcedisimelayu.gitbook.io/wiki)
 
 ---
 
@@ -59,4 +59,4 @@ Muat Turun</p>
 
 ---
 
-## [Penghargaan](https://github.com/MCEdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Penghargaan) / [Credits](https://github.com/MCEdisiMelayu/MCEM-Wiki/wiki/MCEM-‐-Credits)
+## [Penghargaan](https://mcedisimelayu.gitbook.io/wiki/bahasa-melayu/penghargaan) / [Credits](https://mcedisimelayu.gitbook.io/wiki/english/credits)
