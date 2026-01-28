@@ -11,6 +11,6 @@
 
 ---
 
-<h2 id=""><p align=center>◆ <a href="https://sites.google.com/view/mcedisimelayu/kandungan/pek-sumber">Senarai Pek</a> / <a href="https://sites.google.com/view/mcedisimelayu/kandungan/pek-sumber">سناراي ڤيک</a> / <a href="https://sites.google.com/view/mcedisimelayu-en/contents/resource-pack">Pack List</a> ◆ <a href="https://sites.google.com/view/mcedisimelayu/kandungan/mod">Senarai Mod</a> / <a href="https://sites.google.com/view/mcedisimelayu/kandungan/mod">سناراي مود</a> / <a href="https://sites.google.com/view/mcedisimelayu-en/contents/mods">Mods List</a> ◆</p></h2>
+<h2 id=""><p align=center><a href="https://sites.google.com/view/mcedisimelayu/kandungan/pek-sumber">Senarai Pek</a> / <a href="https://sites.google.com/view/mcedisimelayu/kandungan/pek-sumber">سناراي ڤيک</a> / <a href="https://sites.google.com/view/mcedisimelayu-en/contents/resource-pack">Pack List</a></p><p align=center><a href="https://sites.google.com/view/mcedisimelayu/kandungan/mod">Senarai Mod</a> / <a href="https://sites.google.com/view/mcedisimelayu/kandungan/mod">سناراي مود</a> / <a href="https://sites.google.com/view/mcedisimelayu-en/contents/mods">Mods List</a></p></h2>
 
 <h3 id=""><p align=center><a href="https://mcedisimelayu.gitbook.io/wiki/bahasa-melayu/penghargaan">Penghargaan</a> / <a href="https://mcedisimelayu.gitbook.io/wiki/english/credits">Credits</a></p></h3>
