@@ -4,12 +4,14 @@
 
 ---
 
-### Sebuah projek koleksi pek sumber bertemakan Melayu untuk Minecraft!</p>
-### <p align=left>سبواه کوليکسي ڤيک سومبر برتيماکن ملايو اونتوق ماءينکرف‌ت</p>
-##### A Malay-themed resource pack collection project for Minecraft</p>
+### Sebuah koleksi pek sumber dan modifikasi Minecraft bertemakan Melayu!</p>
+### <p align=left>سبواه کوليکسي ڤيک سومبر دان موديفيکاسي ماءينکرف‌ت برتيماکن ملايو</p>
+##### A collection of Malay-themed Minecraft resource packs and mods!</p>
 
 [![Official Website](https://imgur.com/cHpL4jz.png)](https://bit.ly/LamanWebMCEM)
 [![The Official Wiki](https://imgur.com/bYJyjcA.png)](https://mcedisimelayu.gitbook.io/wiki)
+
+[![MC: Edisi Melayu on Modrinth](https://modfolio.creeperkatze.de/modrinth/organization/mc_edisimelayu?showProjects=false&showSparklines=false)](https://modrinth.com/organization/mc_edisimelayu)
 
 ---
 
