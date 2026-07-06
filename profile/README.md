@@ -7,7 +7,7 @@
 
 <p align=center><a href="https://bit.ly/LamanWebMCEM"><img src="https://imgur.com/cHpL4jz.png" alt="Official Website"></a> <a href="https://mcedisimelayu.gitbook.io/wiki"><img src="https://imgur.com/bYJyjcA.png" alt="The Official Wiki"></a></p>
 
-<p align=center><a href="https://modrinth.com/organization/mc_edisimelayu"><img src="https://modfolio.creeperkatze.de/modrinth/organization/mc_edisimelayu?showProjects=false&showSparklines=false" alt="MC: Edisi Melayu on Modrinth" /></a></p>
+<p align=center><a href="https://modrinth.com/organization/mc_edisimelayu"><img src="https://modfolio.creeperkatze.dev/modrinth/organization/mc_edisimelayu?showProjects=false&showSparklines=false" alt="MC: Edisi Melayu on Modrinth" /></a></p>
 
 ---
 
